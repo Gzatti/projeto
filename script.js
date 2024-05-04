@@ -13,7 +13,7 @@ function toggleMode() {
   //substituir imagem
   if (html.classList.contains("light")) {
     //Se tiver light mode, trocar imagem
-    img.setAttribute("src", "./Minhas fots/GabrielZattiLight.JPG")
+    img.setAttribute("src", "./Minhas fots/saveiro.JPG")
   } else {
     //Se não tiver light mode, trocar imagem
     img.setAttribute("src", "./Minhas fots/GabrielKZatti.JPG")
